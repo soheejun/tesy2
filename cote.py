@@ -21,9 +21,4 @@ if __name__ == '__main__':
         x_y_gcd = x*y // gcd(x, y)
         count = 0 
         
-        print(x_y_gcd)
-        for i in range(1, 10**n):
-            if i % x_y_gcd ==0 :
-                count += 1
-
-        print(count)
+    print("something wrong")
