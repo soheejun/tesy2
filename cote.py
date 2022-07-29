@@ -21,5 +21,5 @@ if __name__ == '__main__':
         x_y_gcd = x*y // gcd(x, y)
         count = 0 
         
-    print("Last try")
+    print("This is from git_test")
     
