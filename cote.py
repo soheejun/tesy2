@@ -21,4 +21,5 @@ if __name__ == '__main__':
         x_y_gcd = x*y // gcd(x, y)
         count = 0 
         
-    print("something wrong")
+    print("Last try")
+    
